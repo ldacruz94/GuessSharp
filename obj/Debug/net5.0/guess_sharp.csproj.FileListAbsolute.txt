@@ -1,0 +1,15 @@
+/Users/Lucas/dev/guess_sharp/bin/Debug/net5.0/guess_sharp.deps.json
+/Users/Lucas/dev/guess_sharp/bin/Debug/net5.0/guess_sharp.runtimeconfig.json
+/Users/Lucas/dev/guess_sharp/bin/Debug/net5.0/guess_sharp.runtimeconfig.dev.json
+/Users/Lucas/dev/guess_sharp/bin/Debug/net5.0/guess_sharp.dll
+/Users/Lucas/dev/guess_sharp/bin/Debug/net5.0/ref/guess_sharp.dll
+/Users/Lucas/dev/guess_sharp/bin/Debug/net5.0/guess_sharp.pdb
+/Users/Lucas/dev/guess_sharp/obj/Debug/net5.0/guess_sharp.csproj.AssemblyReference.cache
+/Users/Lucas/dev/guess_sharp/obj/Debug/net5.0/guess_sharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Lucas/dev/guess_sharp/obj/Debug/net5.0/guess_sharp.AssemblyInfoInputs.cache
+/Users/Lucas/dev/guess_sharp/obj/Debug/net5.0/guess_sharp.AssemblyInfo.cs
+/Users/Lucas/dev/guess_sharp/obj/Debug/net5.0/guess_sharp.csproj.CoreCompileInputs.cache
+/Users/Lucas/dev/guess_sharp/obj/Debug/net5.0/guess_sharp.dll
+/Users/Lucas/dev/guess_sharp/obj/Debug/net5.0/ref/guess_sharp.dll
+/Users/Lucas/dev/guess_sharp/obj/Debug/net5.0/guess_sharp.pdb
+/Users/Lucas/dev/guess_sharp/obj/Debug/net5.0/guess_sharp.genruntimeconfig.cache
